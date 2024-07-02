@@ -15,6 +15,12 @@ this website is type of residential <br/>
 -  If you click your profile picture you can see your profile
 -  You can log out your account
 
+how to run this project 
+```
+cd Haven-Ease-project-9
+npm install
+npm run dev
+```
 
 challangeing package
 ```
